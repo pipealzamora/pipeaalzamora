@@ -10,6 +10,7 @@ Soy un apasionado desarrollador de software.
 ## Proyectos Destacados
 - [Aplicacion Movil De busqueda de productos](https://github.com/pipealzamora/Aplicacion-Movil-De-busqueda-de-productos)
 - [Aplicacion web Ferretera](https://github.com/pipealzamora/Aplicacion-web-Ferretera-)
+- [Portafolio](https://github.com/pipealzamora/Portafolio-pipeaalzamora)
 
 ## Contacto
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/felipe-daniel-aros-alzamora-a2ba59251/) para conectarte y colaborar.
